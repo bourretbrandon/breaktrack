@@ -13,4 +13,8 @@ this app is completely harmless - I would not put my real name on a malicious ap
 
 I develop using ActivePerl (don't laugh, it's rapid development!) and "compile" with ActiveState's Perl Dev Kit (PDK).
 
+Windows 32-bit: https://www.dropbox.com/s/yxq9czmndmelx4b/BreakTrack.exe?dl=0
+
+Linux 64-bit: https://www.dropbox.com/s/rdpc2h239288jty/BreakTrack?dl=0
+
 
